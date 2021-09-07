@@ -17,6 +17,7 @@ Content and Infrastructure:
 With special thanks to 
 - Tim Davis (Texas A&M) for GraphBLAS library support in SuiteSparse and 
 - Michel Pelletier (Graphegon) for creation of pygraphblas.
+- IBM for providing the cloud infrastructure on IBM Cloud.
 
 ### Schedule 
 
