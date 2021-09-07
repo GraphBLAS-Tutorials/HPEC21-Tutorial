@@ -1,1 +1,1 @@
-docker build -t graphblas/pygraphblas-ics21-tutorial .
+docker build -t graphblas/pygraphblas-hpec21-tutorial .
