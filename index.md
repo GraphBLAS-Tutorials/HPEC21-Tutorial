@@ -3,13 +3,13 @@
 
 ## Presented at IEEE High-Performance Extreme Computing (HPEC) Conference
 
-## 18 June 2021
+## 23 September 2021
 
 Instructors:
 - Scott McMillan, CMU/SEI
 - Tim Mattson, Intel
 
-Infrastructure:
+Content and Infrastructure:
 - Aydin Buluc, UC Berkeley/LBL
 - Ben Brock, UC Berkeley
 - Jose Moreira, IBM
@@ -22,9 +22,9 @@ With special thanks to
 
 | Time  (EDT, UTC-4)     | Description             |
 | ---------------------- | ----------------------- |
-| 12:15 AM to  1:45 PM   | Part 1: Introduction and Initial Concepts |
+| 12:15 PM to  1:45 PM   | Part 1: Introduction and Initial Concepts |
 |                        | Part 2: GraphBLAS Operations |
 |  1:45 PM to  2:15 PM   | BREAK |
-|  2:15 PM to  3:45      | Part 3: Building BFS and Connected Components |
+|  2:15 PM to  3:45 PM   | Part 3: Building BFS and Connected Components |
 
 Materials can be downloaded in advance from: https:/github.com/GraphBLAS-Tutorials/HPEC21-Tutorial
