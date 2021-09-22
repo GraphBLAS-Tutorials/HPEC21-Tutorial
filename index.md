@@ -23,9 +23,10 @@ With special thanks to
 
 | Time  (EDT, UTC-4)     | Description             |
 | ---------------------- | ----------------------- |
-| 12:15 PM to  1:45 PM   | Part 1: Introduction and Initial Concepts |
-|                        | Part 2: GraphBLAS Operations |
-|  1:45 PM to  2:15 PM   | BREAK |
-|  2:15 PM to  3:45 PM   | Part 3: Building BFS and Connected Components |
+| 12:15 PM to  1:15 PM   | Part 1: Introduction and Initial Concepts |
+|  1:15 PM to  1:30 PM   | BREAK |
+|  1:30 PM to  2:30 PM   | Part 2: Building a BFS Algorithm |
+|  2:30 PM to  2:45 PM   | BREAK |
+|  2:45 PM to  3:45 PM   | Part 3: Connected Components and Beyond |
 
 Materials can be downloaded in advance from: https:/github.com/GraphBLAS-Tutorials/HPEC21-Tutorial
