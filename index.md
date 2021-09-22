@@ -15,7 +15,7 @@ Content and Infrastructure:
 - Jose Moreira, IBM
 
 With special thanks to 
-- Tim Davis (Texas A&M) for GraphBLAS library support in SuiteSparse and 
+- Tim Davis (Texas A&M) for GraphBLAS library support in SuiteSparse. 
 - Michel Pelletier (Graphegon) for creation of pygraphblas.
 - IBM for providing the cloud infrastructure on IBM Cloud.
 
